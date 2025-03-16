@@ -139,8 +139,8 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
-        background-color: #FFFFFF;
-        
+
+
 }
 
 .team-text {
@@ -152,10 +152,8 @@ letter-spacing: 0.02em;
 }
 
 .team-img {
-    width: 264px;
-        height: 260px;
+    background: #fff;
 }
-
 /* Portfolio */
 
 
