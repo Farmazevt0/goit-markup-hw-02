@@ -10,14 +10,15 @@ ul {
 
 body {
     font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
    }
 /* Header */
 
 
 .header-logo {
 font-family: "Raleway", sans-serif;
-font-weight: 700;
-    font-size: 18px;
+font-size: 18px;
     line-height: 1.16;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -26,7 +27,6 @@ font-weight: 700;
 
 .header-logo-web {
     font-family: "Raleway", sans-serif;
-    font-weight: 700;
     font-size: 18px;
     line-height: 1.16;
     letter-spacing: 0.03em;
