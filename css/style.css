@@ -139,6 +139,7 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        background-color: #FFFFFF;
         
 }
 
@@ -147,7 +148,7 @@ letter-spacing: 0.02em;
 letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    background-color: #FFFFFF
+    
 }
 
 .team-img {
