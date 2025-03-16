@@ -121,6 +121,10 @@ letter-spacing: 0.02em;
     background: #f4f4fd;
 }
 
+.team-item {
+    background: #FFFFFF;
+}
+
 .team-logo {
     font-weight: 500;
     font-size: 36px;
@@ -129,7 +133,7 @@ letter-spacing: 0.02em;
 letter-spacing: 0.02em;
         text-transform: capitalize;
         color: #2e2f42;
-background-color: #FFFFFF;
+
 }
 
 .team-name {
